@@ -238,7 +238,7 @@ if __name__ == "__main__":
     wikipedia = Wikipedia(sys.argv[1], sys.argv[2])
     # Example
     # wikipedia.find_longest_titles()
-    # # Example
+    # Example
     # wikipedia.find_most_linked_pages()
     # Homework #1
     wikipedia.find_shortest_path("渋谷", "小野妹子")

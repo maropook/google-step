@@ -26,17 +26,18 @@ https://github.com/hayatoito/google-step-tsp（デモ）
 何が上手く行った・行かなかったのかをドキュメントにまとめてください
 
 
-
-
-スコアボード
-https://docs.google.com/spreadsheets/d/1uOhewb9KtMENU5AyLF8VcsyosQGOfkeh-Kka8M-DYcI/edit?resourcekey=0-w2dZASN1e-X_gcl8vicB4Q&gid=0#gid=0
-
-
-
 ----
 
 来週（予告）
 お互いのコードを読んでコードレビューをする
 AI を利用してさらに最適化
 （なので今週分は必ず 6/19 までに提出してください！）
+
+----
+ソースコード:
+https://github.com/maropook/google-step-tsp/blob/main/my_solver.py
+two_optを実装したのですが、配列の先頭にはいってるcityと最後に入ってるcityを最適化することができてない
+
+スコアボード
+https://docs.google.com/spreadsheets/d/1uOhewb9KtMENU5AyLF8VcsyosQGOfkeh-Kka8M-DYcI/edit?resourcekey=0-w2dZASN1e-X_gcl8vicB4Q&gid=0#gid=0
 
